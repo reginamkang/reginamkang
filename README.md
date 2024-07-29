@@ -1,4 +1,5 @@
-## Hi there 👋
+# Project Portfolio
+This GitHub account serves as a portfolio of my projects. The code here is for demonstration purposes only. Unauthorized use for academic submissions is prohibited.
 
 <!--
 **reginamkang/reginamkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
