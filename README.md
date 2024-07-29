@@ -1,4 +1,4 @@
-# Project Portfolio
+# Regina Kang Portfolio
 This GitHub account serves as a portfolio of my projects. The code here is for demonstration purposes only. Unauthorized use for academic submissions is prohibited.
 
 <!--
